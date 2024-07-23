@@ -1,0 +1,74 @@
+.container{
+    background-color: #1B244A;
+    width: 400px;
+    height: 300px;
+    align-items: flex;
+    justify-content: center;
+    background-image: url('hoop.webp');
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: cover;
+
+}
+
+body{
+
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('hoop.webp');
+    background-size: cover;
+
+
+}
+
+.love{
+display: flex;
+}
+
+.love div{
+    margin-right : 10px
+}
+
+.container{
+    display: flex;
+}
+
+.container div{
+    margin-right: 30px;
+}
+
+h3{
+    color: white;
+    font-size: xx-large;
+}
+
+#HOME {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 20px;
+    align-items: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    font-size: xx-large;
+}
+
+#GUEST{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 20px;
+    align-items: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    font-size: xx-large;
+}
+
+button{
+    font-size: larger;
+    border-radius: 5px;
+
+}
